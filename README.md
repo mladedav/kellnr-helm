@@ -4,7 +4,7 @@ This repository provides a [Helm](https://helm.sh/) Chart for [Kellnr](https://k
 
 ## Installation
 
-Add the _Kellr_ helm repository which contains _Kellnr_:
+Add the _Kellnr_ helm repository which contains _Kellnr_:
 
 ```bash
 # Add  repository
